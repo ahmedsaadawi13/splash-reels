@@ -1,0 +1,29 @@
+# Environment configuration
+.env
+
+# Storage
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Vendor (if using Composer in future)
+/vendor/
+
+# Node modules (if adding build tools)
+/node_modules/
