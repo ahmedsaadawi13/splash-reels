@@ -78,7 +78,7 @@ SplashReels uses a custom MVC architecture to:
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/splashreels.git
+git clone https://github.com/ahmedsaadawi13/splashreels.git
 cd splashreels
 ```
 
@@ -558,7 +558,7 @@ This project is open-source and available under the MIT License.
 
 For issues, questions, or feature requests:
 - Open an issue on GitHub
-- Email: support@splashreels.com (if applicable)
+- Email: ahmed.sha3ban13@gmail.com 
 
 ---
 
